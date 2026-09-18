@@ -30,5 +30,5 @@ I'm a passionate and enthusiastic frontend developer with a strong desire to cre
 
 # GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=bibjaw99&theme=onedark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=bibjaw99&theme=onedark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=mister-grimm96&theme=onedark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mister-grimm96&theme=onedark&hide_border=false)<br/>
